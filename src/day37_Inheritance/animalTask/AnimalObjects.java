@@ -6,7 +6,8 @@ public class AnimalObjects {
 
         Dog dog1 = new Dog("Max","Husky",'M',2,"Small","White");
 
-        System.out.println(dog1);
+        System.out.println("dog1 = " + dog1);
+
 
         dog1.bark();
 
