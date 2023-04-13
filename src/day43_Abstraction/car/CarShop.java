@@ -17,6 +17,7 @@ public class CarShop {
 
     Tesla tesla = new Tesla("Mode3", "White", 2021, 60000);
 
+
         System.out.println(honda);
         System.out.println(audi);
         System.out.println(tesla);
@@ -37,6 +38,8 @@ public class CarShop {
         System.out.println(tesla);
 
 }
+
+
 
 }
 
